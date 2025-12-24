@@ -17,7 +17,7 @@ stc-isp tool into the STC15F204EA series microcontroller.
 
 Basic functionality:
 
-* time display/set 24 hour mode
+* time display/set 24 hour mode (optimized by Wierzbowsky to remove the first zero)
 * display seconds
 * date display/set in DD/MM (adjusted by Wierzbowsky)
 * year display/set in YYYY (added by Wierzbowsky)
@@ -119,5 +119,8 @@ http://www.stcmcu.com/datasheet/stc/stc-ad-pdf/stc15f204ea-series-english.pdf
 
 Wierzbowsky's private Github repository:
 https://github.com/wierzbowsky
+
+Video of the mod:
+https://www.youtube.com/watch?v=zDQftenC6Nw
 
 The kit's schematics can be found in the Docs folder: see the schamatics.jpg file.
